@@ -1,5 +1,5 @@
 
-#Zepto Inventory Data Analysis (SQL)
+# Zepto Inventory Data Analysis (SQL)
 
 This project analyzes a cleaned Zepto inventory dataset using PostgreSQL (pgAdmin) to extract business insights.
 
